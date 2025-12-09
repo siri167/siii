@@ -1,1 +1,3 @@
-# siii
+#include<stdio.h>
+{
+}
